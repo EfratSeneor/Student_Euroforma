@@ -1,0 +1,211 @@
+html,
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.block{
+    display: block !important;
+}
+
+.margin5{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+.margin50{
+    margin-bottom: 50px !important;
+    margin-top: 50px !important;
+}
+
+.margin100{
+    margin-bottom: 100px !important;
+    margin-top: 100px !important;
+}
+
+.margin30{
+    margin-bottom: 30px !important;
+    margin-top: 30px !important;
+}
+
+.margin20{
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+
+.rose{
+    background-color: #fc88be !important;
+}
+
+.rosef{
+    background-color: #e83e8c !important;
+}
+
+.color_rosef{
+    color: #e83e8c !important;
+}
+
+.text_fonce{
+    color: #3d3b3b !important;
+}
+
+.text_rose{
+    color: #e83e8c;
+}
+
+.text_rouge{
+    color: red;
+}
+
+.text_18{
+    font-size: 18px;
+}
+
+.text_13{
+    font-size: 13px;
+}
+
+.taille22{
+    width:22px !important; 
+    height:22px !important;
+    
+}
+
+.centrer{
+    align-items: center !important;
+}
+
+
+.text_noir{
+    color: black;
+}
+
+.text_22{
+    font-size: 22px;
+}
+
+.text_p{
+    font-size: 16px !important;
+    font-style: italic;
+}
+
+.font_gris{
+    background-color: #ababab !important;
+}
+
+.max_h40{
+    max-height: 40px !important;
+}
+
+.max_l200{
+    max-width: 200px !important;
+}
+
+.l500{
+    width: 500px !important;
+}
+
+.max_l300{
+    max-width: 300px !important;
+}
+
+.max_h10{
+    max-height: 10px !important;
+}
+
+.border_bottom2{
+    border-bottom-style: groove;
+}
+
+.text_center{
+   text-align: center; 
+   align-content: center;
+}
